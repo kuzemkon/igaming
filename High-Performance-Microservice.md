@@ -8,15 +8,15 @@
 
 ### Overview
 
-[![System Architecture](https://jacobson.lab.indiana.edu/wp-content/uploads/2018/04/video_thumbnail.png)](./docs/architecture.mp4)
+[![System Architecture](https://jacobson.lab.indiana.edu/wp-content/uploads/2018/04/video_thumbnail.png)](https://youtu.be/3pzSCvwFi_M)
 
 
 ## Cloud Infrastructure
 
 ### Diagram
 
-![System Architecture](./docs/cloud.png)
+![Cloud Infrastructure](./docs/cloud.png)
 
 ### Overview
 
-[![Cloud Infrastructure](https://jacobson.lab.indiana.edu/wp-content/uploads/2018/04/video_thumbnail.png)](./docs/cloud-infrastructure.mp4)
+[![Cloud Infrastructure](https://jacobson.lab.indiana.edu/wp-content/uploads/2018/04/video_thumbnail.png)](https://youtu.be/uoSPlX0Yt8I)
